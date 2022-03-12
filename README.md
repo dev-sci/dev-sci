@@ -7,6 +7,7 @@
 ### ✔ Skills
 ## Languages
 ### Reaserch
+![IDL](https://img.shields.io/badge/IDL-F17648?style=flat-square&logo=IDL&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Clang](https://img.shields.io/badge/C--lang-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![Cpp](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white)
