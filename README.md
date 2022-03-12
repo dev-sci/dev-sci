@@ -6,16 +6,13 @@
 
 ### ✔ Skills
 > Languages
-### Reaserch
+#### Reaserch
 ![IDL](https://img.shields.io/badge/IDL-F17648?style=flat-square&logo=IDL&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-for data processing and visualization
-
 ![Clang](https://img.shields.io/badge/C--lang-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![Cpp](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white)
-for numerical simulation
 
-### Front-end
+#### Front-end
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
@@ -23,29 +20,29 @@ for numerical simulation
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=D3.js&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=Chart.js&logoColor=white)
 
-### Back-end
+#### Back-end
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-D22128?style=flat-square&logo=PHP&logoColor=white)
 
-### DB
+#### DB
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white)
 
-### Others
+#### Others
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 
-## Editors
+> Editors
 ![Vim](https://img.shields.io/badge/Vim-lightgrey?style=flat-square&logo=Vim&logoColor=019733)
 ![VScode](https://img.shields.io/badge/VScode-lightgrey?style=flat-square&logo=Visual%20Studio%20Code&logoColor=007ACC)
 
-## Tools
+> Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
 ![Qgis](https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 
-## Environments
+> Environments
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white)
