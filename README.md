@@ -14,6 +14,7 @@
 ### Front-end
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=D3.js&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=Chart.js&logoColor=white)
@@ -44,6 +45,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white)
+
 ![Thinkpad](https://img.shields.io/badge/Thinkpad-E2231A?style=flat-square&logo=Lenovo&logoColor=white)
 ![X1 yoga](https://img.shields.io/badge/X1_yoga-EE2624?style=flat-square&logo=ThinkPad&logoColor=white)
 ![Galaxy Note 20](https://img.shields.io/badge/Galaxy_Note_20-1428A0?style=flat-square&logo=Samsung&logoColor=white)
