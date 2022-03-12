@@ -1,7 +1,7 @@
 [![Gmail](https://img.shields.io/badge/kilho.baek@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kilho.baek@gmail.com)](mailto:kilho.baek@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white&link=https://orcid.org/0000-0002-2703-7810)](https://orcid.org/0000-0002-2703-7810)
-[![Tech Blog](https://img.shields.io/badge/dev--sci-lightgrey?style=flat-square&logo=GitHub&logoColor=181717&link=https://github.io/dev-sci/)](https://github.io/dev-sci/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lightgrey?style=flat-square&logo=LinkedIn&logoColor=0A66C2&link=)]()
+[![Tech Blog](https://img.shields.io/badge/dev--sci-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.io/dev-sci/)](https://github.io/dev-sci/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=)]()
 <!-- [![Linktree](https://img.shields.io/badge/Linktree-lightgrey?style=flat-square&logo=Linktree&logoColor=39E09B&link=https://linktr.ee/dev_sci)](https://linktr.ee/dev_sci) -->
 
 ### ✔ Skills
