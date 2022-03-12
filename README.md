@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/C-lnag-lightgrey?style=plastic&logo=C&logoColor=A8B9CC"/>
+<img src="https://img.shields.io/badge/C\-lnag-lightgrey?style=plastic&logo=C&logoColor=A8B9CC"/>
 
 
 <!---
