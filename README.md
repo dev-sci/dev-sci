@@ -5,12 +5,15 @@
 <!-- [![Linktree](https://img.shields.io/badge/Linktree-lightgrey?style=flat-square&logo=Linktree&logoColor=39E09B&link=https://linktr.ee/dev_sci)](https://linktr.ee/dev_sci) -->
 
 ### ✔ Skills
-## Languages
+> Languages
 ### Reaserch
 ![IDL](https://img.shields.io/badge/IDL-F17648?style=flat-square&logo=IDL&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+for data processing and visualization
+
 ![Clang](https://img.shields.io/badge/C--lang-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![Cpp](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white)
+for numerical simulation
 
 ### Front-end
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
