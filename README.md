@@ -1,4 +1,4 @@
-[![Gmail](https://img.shields.io/badge/kilho.baek@gmail.com-lightgrey?style=plastic&logo=Gmail&logoColor=EA4335)]
+[![Gmail](https://img.shields.io/badge/kilho.baek@gmail.com-lightgrey?style=plastic&logo=Gmail&logoColor=EA4335&link=mailto:kilho.baek@gmail.com)](mailto:kilho.baek@gmail.com)
 <img src="https://img.shields.io/badge/ORCID-lightgrey?style=plastic&logo=ORCID&logoColor=A6CE39&link=https://orcid.org/0000-0002-2703-7810"/>
 <img src="https://img.shields.io/badge/dev--sci-lightgrey?style=plastic&logo=GitHub&logoColor=181717&link=https://github.com/dev-sci/dev-sci/"/>
 <img src="https://img.shields.io/badge/LinkedIn-lightgrey?style=plastic&logo=LinkedIn&logoColor=0A66C2"/>
