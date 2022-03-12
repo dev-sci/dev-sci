@@ -1,5 +1,7 @@
 [![Gmail](https://img.shields.io/badge/kilho.baek@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:kilho.baek@gmail.com)](mailto:kilho.baek@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=plastic&logo=ORCID&logoColor=white&link=https://orcid.org/0000-0002-2703-7810)](https://orcid.org/0000-0002-2703-7810)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white&link=https://orcid.org/0000-0002-2703-7810)](https://orcid.org/0000-0002-2703-7810)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white&link=https://orcid.org/0000-0002-2703-7810)](https://orcid.org/0000-0002-2703-7810)
 <img src="https://img.shields.io/badge/dev--sci-lightgrey?style=plastic&logo=GitHub&logoColor=181717&link=https://github.com/dev-sci/dev-sci/"/>
 <img src="https://img.shields.io/badge/LinkedIn-lightgrey?style=plastic&logo=LinkedIn&logoColor=0A66C2"/>
 <img src="https://img.shields.io/badge/Linktree-lightgrey?style=plastic&logo=Linktree&logoColor=39E09B&link=https://linktr.ee/dev_sci"/>
