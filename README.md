@@ -33,13 +33,13 @@
 
 ## Editors
 ![Vim](https://img.shields.io/badge/Vim-lightgrey?style=flat-square&logo=Vim&logoColor=019733)
-![VScode](https://img.shields.io/badge/VScode-lightgrey?style=flat-square&logo=Visual Studio Code&logoColor=007ACC)
+![VScode](https://img.shields.io/badge/VScode-lightgrey?style=flat-square&logo=Visual%20Studio%20Code&logoColor=007ACC)
 
 ## Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=)
-![Qgis](https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
+![Qgis](https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 
 ## Environments
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
