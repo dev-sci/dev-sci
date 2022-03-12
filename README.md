@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lightgrey?style=flat-square&logo=LinkedIn&logoColor=0A66C2&link=)]()
 <!-- [![Linktree](https://img.shields.io/badge/Linktree-lightgrey?style=flat-square&logo=Linktree&logoColor=39E09B&link=https://linktr.ee/dev_sci)](https://linktr.ee/dev_sci) -->
 
-# Skills
+### ✔ Skills
 ## Languages
 ### Reaserch
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -12,41 +12,41 @@
 ![Cpp](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white)
 
 ### Front-end
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=D3.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=Chart.js&logoColor=white"/>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=D3.js&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=Chart.js&logoColor=white)
 
 ### Back-end
-<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-D22128?style=flat-square&logo=PHP&logoColor=white"/>
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-D22128?style=flat-square&logo=PHP&logoColor=white)
 
 ### DB
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white)
 
 ### Others
-<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 
 ## Editors
-<img src="https://img.shields.io/badge/Vim-lightgrey?style=flat-square&logo=Vim&logoColor=019733"/>
-<img src="https://img.shields.io/badge/VScode-lightgrey?style=flat-square&logo=Visual Studio Code&logoColor=007ACC"/>
+![Vim](https://img.shields.io/badge/Vim-lightgrey?style=flat-square&logo=Vim&logoColor=019733)
+![VScode](https://img.shields.io/badge/VScode-lightgrey?style=flat-square&logo=Visual Studio Code&logoColor=007ACC)
 
 ## Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor="/>
-<img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor="/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor="/>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=)
+![Qgis](https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=)
 
 ## Environments
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Thickpad-E2231A?style=flat-square&logo=Lenovo&logoColor=white"/>
-<img src="https://img.shields.io/badge/X1_yoga-EE2624?style=flat-square&logo=ThinkPad&logoColor=white"/>
-<img src="https://img.shields.io/badge/Galaxy_Note_20-1428A0?style=flat-square&logo=Samsung&logoColor=white"/>
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white)
+![Thinkpad](https://img.shields.io/badge/Thinkpad-E2231A?style=flat-square&logo=Lenovo&logoColor=white)
+![X1 yoga](https://img.shields.io/badge/X1_yoga-EE2624?style=flat-square&logo=ThinkPad&logoColor=white)
+![Galaxy Note 20](https://img.shields.io/badge/Galaxy_Note_20-1428A0?style=flat-square&logo=Samsung&logoColor=white)
 
 <!---
 <img src="https://img.shields.io/badge/CMake-lightgrey?style=flat-square&logo=CMake&logoColor=064F8C"/>
