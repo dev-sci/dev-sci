@@ -10,7 +10,7 @@
 ![IDL](https://img.shields.io/badge/IDL-F17648?style=flat-square&logo=IDL&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Clang](https://img.shields.io/badge/C--lang-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![Cpp](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white)
+![Cpp](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 
 ##### Front-end
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
@@ -33,8 +33,8 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 
 #### Editors
-![Vim](https://img.shields.io/badge/Vim-lightgrey?style=flat-square&logo=Vim&logoColor=019733)
-![VScode](https://img.shields.io/badge/VScode-lightgrey?style=flat-square&logo=Visual%20Studio%20Code&logoColor=007ACC)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white)
+![VScode](https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 
 #### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
