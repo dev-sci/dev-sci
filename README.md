@@ -6,13 +6,13 @@
 <!-- [![Linktree](https://img.shields.io/badge/Linktree-lightgrey?style=flat-square&logo=Linktree&logoColor=39E09B&link=https://linktr.ee/dev_sci)](https://linktr.ee/dev_sci) -->
 
 ### ✔ Skills
-#### Reaserch (main)
+#### Reaserch
 ![IDL](https://img.shields.io/badge/IDL-F17648?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIwMCIgd2lkdGg9IjIwMCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pbllNaWQiIHZpZXdCb3g9Ii0yNS4yMyAtOSAzNi40NDMgMTMuNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNLTEuNTQyIDE1Ljk3MmgtMTAuOTMzYy0uMTAxIDAtLjIwMiAwLS4zMDQtLjEwMmwtOC44MDctNi41OGMtLjEtLjEtLjIwMi0uMjAyLS4yMDItLjMwM2wtMy40NDItMTAuNjN2LS4zMDNsMy40NDItMTEuNTRjMC0uMTAyLjEwMS0uMjAzLjIwMi0uMzA0bDkuMDEtNi41OGMuMTAxLS4xMDIuMjAyLS4xMDIuMzA0LS4xMDJoMTAuNTI4Yy4xIDAgLjIwMiAwIC4zMDMuMTAybDkuMDEgNi41OGMuMTAxLjEuMjAyLjIwMi4yMDIuMzAzbDMuNDQyIDExLjQ0di4zMDNsLTMuMzQgMTAuNzNjMCAuMTAyLS4xMDIuMjAzLS4yMDMuMzA0bC04LjgwNyA2LjU4Yy0uMjAyLjEwMi0uMzA0LjEwMi0uNDA1LjEwMm0tMTAuNDI3LTEuMTE0aDkuMDFjLTMuNTQzLTMuNDQyLTcuMDg2LTYuNDc5LTEwLjczLTkuMjEyLjMwMyAyLjkzNi45MSA2LjA3NCAxLjcyIDkuMjEybS0xLjMxNi0xMC4zMjVjMy45NDggMi44MzQgNy41OTMgNi4wNzMgMTEuNDQgOS43MThDLS45MzYgOS4zOS0uNDI5IDQuNzM1LS4yMjYuMjhjLTQuODYgMS4wMTItOS40MTUgMi41My0xMy4wNiA0LjI1Mk0uNzg2Ljc4N0MuNTg0IDUuMDM5LjA3OCA5LjQ5My0uNzMyIDE0LjA0OGw3LjI4OS01LjM2NUM0LjgzNiA1LjQ0MyAzLjAxNCAyLjgxMi43ODcuNzg3bS0yMS4xNTggNy45OTcgNi45ODUgNS4xNjNhNjguMjk0IDY4LjI5NCAwIDAgMS0xLjUxOC04LjcwNiAzNC4wNDUgMzQuMDQ1IDAgMCAwLTUuNDY3IDMuNTQzTS0yMy43MS0uNjNsMi43MzMgOC41MDNhMzQuMDQ1IDM0LjA0NSAwIDAgMSA1LjQ2Ni0zLjU0M2MtMi43MzMtMS44MjItNS4zNjUtMy41NDMtOC4yLTQuOTZtMjUuMjA3LjUwNkMzLjYyMSAxLjkgNS41NDUgNC4zMyA3LjE2NSA3LjM2N2wyLjczMi04LjUwM2MtMi43MzMuMS01LjU2Ny41MDYtOC40MDIgMS4wMTJtLTE1LjU5LTcuMzlhNTcuNTUyIDU3LjU1MiAwIDAgMCAuMTAyIDExLjAzNEMtMTAuMjQ4IDEuOC01Ljc5My4yOC0xLjAzNi0uNzMyLTMuODctMi44NTctNi44MDYtNC4xNzMtOS44NDMtNS41OWMtMS40MTctLjYwNy0yLjgzNC0xLjIxNC00LjI1Mi0xLjkyM20tOS42MTcgNS41NjhhNzMuMTk1IDczLjE5NSAwIDAgMSA4LjUwNCA1LjE2MmMtLjMwNC0zLjY0NC0uMzA0LTcuMTg3LS4xMDEtMTAuNzMtMy4yNCAxLjUxOC02LjA3NCAzLjQ0Mi04LjQwMyA1LjU2OE0uMzgyLTExLjI2Qy43ODYtOC4wMi44ODgtNC41NzguODg4LTEuMjM4YTY3LjU4NiA2Ny41ODYgMCAwIDEgOC42MDQtMS4yMTRDNi43Ni01LjY5MiAzLjgyMy04LjUyNi4zODItMTEuMjZtLTEzLjU2NSAyLjgzNWMxLjIxNC42MDcgMi40MyAxLjExMyAzLjg0NiAxLjcyQy02LjMtNS4zODctMy4yNjMtMy45Ny0uMjI2LTEuNzQzYzAtMy40NDItLjEwMS02Ljg4NC0uNjA3LTEwLjIyNC00LjU1Ni45MS04LjcwNiAyLjAyNC0xMi4zNSAzLjU0M20tNy43OTUtMy44NDctMi41MzEgOC42MDVjMi4xMjYtMS44MjIgNC43NTgtMy40NDIgNy42OTQtNC44NmEyNS4wNTYgMjUuMDU2IDAgMCAxLTUuMTYzLTMuNzQ1bTIyLjA2OC4xMDFhNTQuNDczIDU0LjQ3MyAwIDAgMSA4LjIgNy43OTVsLTIuNDMtOC40MDItNS43Ny42MDdtLTEzLjA1OS02Ljg4M2MtLjkxIDMuMTM4LTEuNjIgNi4zNzctMi4wMjQgOS43MThhNTMuMjcgNTMuMjcgMCAwIDEgMTIuMTQ3LTMuNDQyYy0yLjczMy0yLjEyNi01Ljk3Mi00LjA1LTEwLjEyMy02LjI3Nm0tOC40MDIgNS43N2MxLjUxOSAxLjUxOCAzLjI0IDIuNzMzIDUuMjY0IDMuOTQ4LjMwNC0zLjAzNy45MTEtNi4wNzQgMS43MjEtOS4wMXptMTkuNTM4LTUuMjY0Yy40MDUgMS43Mi43MDggMy41NDMgMS4wMTIgNS4zNjVhNTAuMTUgNTAuMTUgMCAwIDEgNS40NjctLjYwN3ptLTkuMjEyLS44MWMzLjQ0MiAxLjkyMyA2LjM3NyAzLjc0NSA4LjkwOCA1LjU2OC0uMzA0LTEuODIzLS42MDctMy43NDYtMS4xMTMtNS41Njh6IiBmaWxsPSIjZmYwMDBhIiBzdHlsZT0ic3Ryb2tlLXdpZHRoOjE7ZmlsbDojZmZmO2ZpbGwtb3BhY2l0eToxIi8+PC9zdmc+&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Clang](https://img.shields.io/badge/C--lang-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![Cpp](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 
-#### Interests (sub)
+#### Interests
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
@@ -34,16 +34,15 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
 ![Qgis](https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=Obsidian&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 
 ### ✔ Environments
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 
-![Thinkpad](https://img.shields.io/badge/Thinkpad-E2231A?style=flat-square&logo=Lenovo&logoColor=white)
-![X1 yoga](https://img.shields.io/badge/X1_yoga-EE2624?style=flat-square&logo=ThinkPad&logoColor=white)
-![Galaxy Note 20](https://img.shields.io/badge/Galaxy_Note_20-1428A0?style=flat-square&logo=Samsung&logoColor=white)
 
 <!---
 <img src="https://img.shields.io/badge/CMake-lightgrey?style=flat-square&logo=CMake&logoColor=064F8C"/>
